@@ -1,0 +1,24 @@
+# sbt
+spark/project/project/
+spark/project/target/
+spark/target/
+
+# intellij idea
+*.iml
+*.ipr
+*.iws
+.idea
+
+# mac
+.DS_Store
+
+# bloop and metals
+.bsp
+
+# Scala
+*.class
+*.log
+
+# Output
+output/
+output2/
